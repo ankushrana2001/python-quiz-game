@@ -15,7 +15,7 @@ A simple terminal-based multiple-choice Python quiz game built using basic Pytho
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/python-quiz-game.git
+   git clone https://github.com/ankushrana2001/python-quiz-game.git
    ```
 
 2. **Navigate to the project directory:**
